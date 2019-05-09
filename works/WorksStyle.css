@@ -1,0 +1,13 @@
+body{
+    background-color:#333;
+    color:#fff;
+}
+a.back{
+    float:right;
+}
+a:link,a:visited{
+    color:#0ff;
+}
+a:hover{
+    color:#f30;
+}

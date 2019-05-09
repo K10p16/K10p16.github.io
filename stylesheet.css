@@ -40,3 +40,6 @@ p{
 a:link,a:visited{
     color:#0ff;
 }
+a:hover{
+    color:#f30;
+}
