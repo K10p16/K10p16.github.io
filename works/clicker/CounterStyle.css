@@ -21,6 +21,8 @@ button{
 }
 a{
     float:right;
+    padding-right:20px;
+    text-decoration: none;
 }
 a:link,a:visited{
     color:#0ff;

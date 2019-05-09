@@ -37,6 +37,9 @@ p{
     margin:5px 0px;
     font-size:20px;
 }
+a{
+    text-decoration: none;
+}
 a:link,a:visited{
     color:#0ff;
 }

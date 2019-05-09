@@ -2,24 +2,20 @@ body{
     background-color:#333;
     color:#fff;
 }
-h1{
-    padding-left:10px;
+div{
+    text-align: center;
 }
-h2{
-    padding-left:25px;
+div.time{
+    padding-top:50px;
+    font-size:100px;
 }
-p{
-    padding-left:50px;
-}
-span.secret{
-    color:#333;
+div.date{
+    font-size:50px;
 }
 a{
-    text-decoration: none;
-}
-a.back{
     float:right;
     padding-right:20px;
+    text-decoration: none;
 }
 a:link,a:visited{
     color:#0ff;
