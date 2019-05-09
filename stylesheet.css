@@ -1,0 +1,32 @@
+img{
+    padding:15px 5px 10px 15px;
+    width:80px;
+    float:left;
+}
+h1{
+    padding-left:50px;
+    font-size:50px;
+    margin:0px 0px;
+}
+span.name{
+    font-size:75px;
+    color:#f00;
+    font-family:serif;
+}
+span.twitter{
+    color:#0cf;
+}
+h2{
+    padding-left:25px;
+}
+h3{
+    padding-left:50px;
+}
+li{
+    padding-left:25px;
+    list-style:none;
+}
+p{
+    padding-top:25px;
+    padding-left:25px;
+}
